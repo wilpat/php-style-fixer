@@ -1,5 +1,5 @@
 {
-  "name": "william/php-style-example",
+  "name": "wilpat/php-style-fixer",
   "description": "William's shared PHP style rules for PHP-CS-Fixer",
   "license": "MIT",
   "require": {
