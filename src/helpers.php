@@ -1,6 +1,6 @@
 <?php
 
-namespace Thunderbite;
+namespace SharedFixer;
 
 use PhpCsFixer\Config;
 use PhpCsFixer\Finder;
