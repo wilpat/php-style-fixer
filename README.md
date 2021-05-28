@@ -30,12 +30,12 @@ $finder = PhpCsFixer\Finder::create()
     __DIR__.'/tests',
   ]);
 
-return SharedFixer\styles($finder);
+return CodeStyleFixer\styles($finder);
 ```
 The above takes in the default folders that come with a laravel app.
 
 # Optional Configuration
-You can add your own array of rule sets by editing returning `SharedFixer\styles($finder, $new_rules_array);`
+You can add your own array of rule sets by editing returning `CodeStyleFixer\styles($finder, $new_rules_array);`
 You can also clone this package and edit the rules in `src/rules.php` to have your own coding standard for your team
 
 
