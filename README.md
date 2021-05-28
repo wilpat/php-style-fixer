@@ -8,13 +8,13 @@ Add the repo to your composer.json:
 "repositories": [
         {
             "type": "github",
-            "url": "https://github.com/Thunderbite/php-cs-fixer"
+            "url": "https://github.com/wilpat/php-style-fixer"
         }
     ]
 ```
 
 Require the package
-`$ composer require thunderbite/php-cs-fixer`
+`$ composer require wilpat/php-style-fixer`
 
 # Setup
 Create a `.php_cs.dist` file inside the root folder of your project and specify the folders you want to be targeted for style fixing as shown below:

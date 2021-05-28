@@ -1,15 +1,7 @@
 {
-  "name": "thunderbite/php-cs-fixer",
+  "name": "wilpat/php-style-fixer",
   "description": "Shared PHP style rules for PHP-CS-Fixer",
   "license": "licence",
-  "authors": [
-      {
-          "name": "William Okafor",
-          "email": "william@thunderbite.com",
-          "role": "Developer"
-      }
-  ],
-  "homepage": "https://github.com/thunderbite/php-cs-fixer",
   "require": {
     "friendsofphp/php-cs-fixer": "^2.0"
   },
