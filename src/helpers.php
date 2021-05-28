@@ -1,6 +1,6 @@
 <?php
 
-namespace SharedFixer;
+namespace CodeStyleFixer;
 
 use PhpCsFixer\Config;
 use PhpCsFixer\Finder;
