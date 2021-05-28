@@ -8,7 +8,7 @@ Add the repo to your composer.json:
 "repositories": [
         {
             "type": "github",
-            "url": "https://github.com/wilpat/php-style-fixer"
+            "url": "https://github.com/Thunderbite/php-cs-fixer"
         }
     ]
 ```
