@@ -1,5 +1,5 @@
 {
-  "name": "wilpat/php-style-fixer",
+  "name": "thunderbite/php-cs-fixer",
   "description": "Shared PHP style rules for PHP-CS-Fixer",
   "license": "licence",
   "authors": [
@@ -9,7 +9,7 @@
           "role": "Developer"
       }
   ],
-  "homepage": "https://github.com/wilpat/php-style-fixer",
+  "homepage": "https://github.com/thunderbite/php-cs-fixer",
   "require": {
     "friendsofphp/php-cs-fixer": "^2.0"
   },
