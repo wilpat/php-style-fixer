@@ -40,7 +40,7 @@ You can also clone this package and edit the rules in `src/rules.php` to have yo
 
 
 # Style fixing
-## Option 1
+## Option 1 -- Manual fix
 Run `./vendor/bin/php-cs-fixer fix` and all the files would get fixed according to the rules you set.
 
 ## Option 2 -- Autofix On Save (VSCODE)
